@@ -22,7 +22,7 @@
 - Значение width: 275px
 - Значение height: 72px
 
-![Test%20task%20for%20CSSSR/Untitled.png](Test%20task%20for%20CSSSR/Untitled.png)
+!https://github.com/DinLemon/CSSSR_Test_Task/blob/gh-pages/Test%20task%20for%20CSSSR/Untitled%201.png?raw=true
 
 **Ожидаемый результат:** Верстка текста под заголовком "Удаленная работа" соответствует макету и значения следующих параметров являются следующими:
 
